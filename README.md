@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Linxin</h1>
 <h3 align="center">A passionate frontend developer from China.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=linxin4cs&label=Profile%20views&color=0e75b6&style=flat" alt="linxin4cs" /> </p>
-
-<p align="left"> <a href="https://twitter.com/linxin4cs" target="blank"><img src="https://img.shields.io/twitter/follow/linxin4cs?logo=twitter&style=for-the-badge" alt="linxin4cs" /></a> </p>
-
 - 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **linxin4cs@gmail.com**
