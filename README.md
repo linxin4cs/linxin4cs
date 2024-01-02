@@ -1,24 +1,14 @@
-## Hey 👋, I'm Linxin  
-  
+<h1 align="center">Hi 👋, I'm Linxin</h1>
+<h3 align="center>A software developer from China and have some practices on web applications.</h3>
 
-<a href="https://twitter.com/Linxin4cs" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>  
-  
+- 🌱 I’m currently learning **Backend (Java, Spring Boot family, etc.) **
 
+- 📫 How to reach me **linxin4cs@gmail.com**
 
-
-### Glad to see you here!  
-I`m a software developer from China and have some practices on web applications.  
-  
-
-<br/>  
-
-- 🔭 I’m currently learning Backend (Java, Spring Boot family, etc.)  
-  
-
-<br/>  
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/linxin4cs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="linxin4cs" height="30" width="40" /></a>
+</p>
 
 ## Languages and Tools  
 <div align="center">  
