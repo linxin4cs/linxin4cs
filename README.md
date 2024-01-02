@@ -14,18 +14,8 @@ I`m a software developer from China and have some practices on web applications.
 
 <br/>  
 
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
 - 🔭 I’m currently learning Backend (Java, Spring Boot family, etc.)  
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
+  
 
 <br/>  
 
@@ -67,23 +57,6 @@ I`m a software developer from China and have some practices on web applications.
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linxin4cs&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linxin4cs&hide_border=true&layout=compact" align="right" style="width: 100%" /></div>
 
 </td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=linxin4cs&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
