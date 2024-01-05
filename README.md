@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Linxin</h1>
 <h3 align="center">A software developer from China and have some practices on web applications.</h3>
 
-- 🌱 I’m currently learning **Backend (Java, Spring Boot family, etc.)**
+- 🌱 I’m currently learning **Backend (Nodejs, Trpc, Nestjs, etc.)**
 
 - 📫 How to reach me **linxin4cs@gmail.com**
 
