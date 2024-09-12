@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Linxin</h1>
-<h3 align="center">A software developer from China and have some practices on web applications.</h3>
+<h3 align="center">A software developer from China and now in DOrtmund(DE).</h3>
 
 <!-- - 🌱 I’m currently learning **Backend (Nodejs, Trpc, Nestjs, etc.)** -->
 
@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/linxin4cs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="linxin4cs" height="30" width="40" /></a>
+<a href="https://twitter.com/linxin4cs](https://www.linkedin.com/in/linxin-zhang-26a2732a5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linxin4cs" height="30" width="40" /></a>
 </p>
 
 ## Languages and Tools  
